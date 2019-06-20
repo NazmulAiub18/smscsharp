@@ -1,0 +1,24 @@
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\student\Desktop\New folder\Data Access Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\student\Desktop\New folder\Data Access Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\student\Desktop\New folder\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\student\Desktop\New folder\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\student\Desktop\New folder\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\student\Desktop\New folder\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\New folder\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\student\Desktop\New folder\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\annafi\Desktop\Update\Data Access Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\annafi\Desktop\Update\Data Access Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\annafi\Desktop\Update\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\annafi\Desktop\Update\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\Update\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\annafi\Desktop\Update\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\annafi\Desktop\Update\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\Update\Data Access Layer\obj\Debug\Data Access Layer.pdb

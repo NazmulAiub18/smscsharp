@@ -1,0 +1,51 @@
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Registration.resources
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Login.resources
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Admin_Portal.resources
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Student_Portal.resources
+C:\Users\annafi\Desktop\MYPRO_V2\SchoolManagementSoft\Presentation Layer\obj\Debug\Presentation_Layer.Teacher_Portal.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\Data Access Layer.dll
+C:\Users\student\Desktop\New folder\Presentation Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Admin_Portal.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Login.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Registration.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Student_Portal.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation_Layer.Teacher_Portal.resources
+C:\Users\student\Desktop\New folder\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\Data Access Layer.dll
+C:\Users\annafi\Desktop\Update\Presentation Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Admin_Portal.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Login.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Registration.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Student_Portal.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation_Layer.Teacher_Portal.resources
+C:\Users\annafi\Desktop\Update\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
